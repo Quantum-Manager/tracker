@@ -9,7 +9,7 @@ Here you can:
 [Create issue](https://github.com/Quantum-Manager/tracker/issues/new/choose)
 
 
-
+<hr />
 
 
 ### Трекер для Quantum Manager
