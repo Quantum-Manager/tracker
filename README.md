@@ -6,6 +6,8 @@ Here you can:
 - Describe errors
 
 
+[Create issue](https://github.com/Quantum-Manager/tracker/issues/new/choose)
+
 
 ### Трекер для Quantum Manager
 
@@ -13,3 +15,6 @@ Here you can:
 - Предложить идеи
 - Предложить свои решения
 - Описать ошибки
+
+
+[Создать issue](https://github.com/Quantum-Manager/tracker/issues/new/choose)
