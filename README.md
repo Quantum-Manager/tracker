@@ -2,7 +2,6 @@
 
 Here you can:
 - Suggest ideas
-- Offer your solutions
 - Describe errors
 
 
@@ -16,7 +15,6 @@ Here you can:
 
 Здесь вы можете:
 - Предложить идеи
-- Предложить свои решения
 - Описать ошибки
 
 
