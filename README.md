@@ -5,7 +5,7 @@ Here you can:
 - Offer your solutions
 - Describe errors
 
-<button href="#" class="btn btn-primary">test</button>
+
 [Create issue](https://github.com/Quantum-Manager/tracker/issues/new/choose)
 
 
